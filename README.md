@@ -1,2 +1,3 @@
 # Test_Repository
-For praticing git
+This is a test project 
+This is my first change 
